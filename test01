@@ -7,6 +7,9 @@
   </head>
   <body>  
     <script>
+
+
+
 			 let a=window.prompt("手を決めてください、１はグー(锤)、２はチョキ(剪)、３はパー(布)。")
        let b=parseInt(Math.random()*2)+1
        let gu=1,tyoki=2,pa=3
@@ -25,6 +28,9 @@
         }else{
            window.alert("平");
            }
+
+
+
     </script>
   </body>
 </html>
